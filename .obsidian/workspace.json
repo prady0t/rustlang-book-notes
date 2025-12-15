@@ -258,9 +258,19 @@
               "icon": "lucide-file",
               "title": "Notes while working on pixi"
             }
+          },
+          {
+            "id": "6f5e79d00ea328c0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -409,11 +419,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "81d8d3c6d26c77cb",
+  "active": "6f5e79d00ea328c0",
   "lastOpenFiles": [
+    "Smart Pointers.md",
+    "Notes while working on pixi.md",
     "closures.md",
     "Untitled.md",
-    "Notes while working on pixi.md",
     "minigrep.md",
     "testing.md",
     "sample.md",
